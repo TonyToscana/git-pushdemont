@@ -7,5 +7,5 @@ do
 done
 
 sleep 1
-echo "push process is suspended"
+echo "push prucés is suspended"
 # git push origin master -f # TODO uncomment this line someday
